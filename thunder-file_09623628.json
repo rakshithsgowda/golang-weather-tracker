@@ -1,0 +1,49 @@
+{
+  "data": {
+    "city": "delhi",
+    "city_weather": {
+      "base": "stations",
+      "clouds": {
+        "all": 0
+      },
+      "cod": 200,
+      "coord": {
+        "lat": 28.6667,
+        "lon": 77.2167
+      },
+      "dt": 1699728135,
+      "id": 1273294,
+      "main": {
+        "feels_like": 292.46,
+        "humidity": 88,
+        "pressure": 1019,
+        "temp": 292.2,
+        "temp_max": 292.2,
+        "temp_min": 292.2
+      },
+      "name": "Delhi",
+      "sys": {
+        "country": "IN",
+        "id": 9165,
+        "sunrise": 1699751464,
+        "sunset": 1699790368,
+        "type": 1
+      },
+      "timezone": 19800,
+      "visibility": 2600,
+      "weather": [
+        {
+          "description": "mist",
+          "icon": "50n",
+          "id": 701,
+          "main": "Mist"
+        }
+      ],
+      "wind": {
+        "deg": 0,
+        "speed": 0
+      }
+    }
+  },
+  "message": "Success"
+}

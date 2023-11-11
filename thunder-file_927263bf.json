@@ -1,0 +1,49 @@
+{
+  "data": {
+    "city": "bangalore",
+    "city_weather": {
+      "base": "stations",
+      "clouds": {
+        "all": 100
+      },
+      "cod": 200,
+      "coord": {
+        "lat": 12.9762,
+        "lon": 77.6033
+      },
+      "dt": 1699727968,
+      "id": 1277333,
+      "main": {
+        "feels_like": 294.38,
+        "humidity": 88,
+        "pressure": 1020,
+        "temp": 293.95,
+        "temp_max": 293.95,
+        "temp_min": 292.05
+      },
+      "name": "Bengaluru",
+      "sys": {
+        "country": "IN",
+        "id": 9205,
+        "sunrise": 1699750011,
+        "sunset": 1699791635,
+        "type": 1
+      },
+      "timezone": 19800,
+      "visibility": 5000,
+      "weather": [
+        {
+          "description": "mist",
+          "icon": "50n",
+          "id": 701,
+          "main": "Mist"
+        }
+      ],
+      "wind": {
+        "deg": 80,
+        "speed": 3.09
+      }
+    }
+  },
+  "message": "Success"
+}
